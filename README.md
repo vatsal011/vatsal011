@@ -34,22 +34,9 @@
             alt="python" width="40" height="40" /> </a>
 </p>
 
-<p>
-        <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=vatsal011&show_icons=true&locale=en" alt="vatsal011" />
-</p>
-
-<p>
-        <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsal011&show_icons=true&locale=en&layout=compact"
-        alt="vatsal011" />
-</p>
-
-
-<p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal011&" alt="vatsal011" />
-</p>
-
+![Vatsal's github stats](https://github-readme-stats.vercel.app/api?username=arjundas1&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjundas1&theme=highcontrast&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjundas1&theme=highcontrast)
 
 <!--
 **vatsal011/vatsal011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
