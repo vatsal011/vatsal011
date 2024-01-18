@@ -45,7 +45,7 @@
             alt="python" width="40" height="40" /> </a>
 </p>
 
-<p>&nbsp;
+<p>
         <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=vatsal011&show_icons=true&locale=en" alt="vatsal011" />
 </p>
