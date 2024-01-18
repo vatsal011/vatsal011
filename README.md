@@ -17,7 +17,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> 
 </p>
 
-![Vatsal's github stats](https://github-readme-stats.vercel.app/api?username=vatsal011&theme=highcontrast&show_icons=true&count_private=true)
+![Vatsall's github stats](https://github-readme-stats.vercel.app/api?username=vatsal011&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal011&theme=highcontrast&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vatsal011&theme=highcontrast)
 
