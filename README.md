@@ -45,15 +45,21 @@
             alt="python" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsal011&show_icons=true&locale=en&layout=compact"
-        alt="vatsal011" /></p>
-
-<p>&nbsp;<img align="center"
+<p>&nbsp;
+        <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=vatsal011&show_icons=true&locale=en" alt="vatsal011" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal011&" alt="vatsal011" /></p>
+<p>
+        <img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsal011&show_icons=true&locale=en&layout=compact"
+        alt="vatsal011" />
+</p>
+
+
+<p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal011&" alt="vatsal011" />
+</p>
 
 
 <!--
