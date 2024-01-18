@@ -21,9 +21,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal011&theme=highcontrast&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vatsal011&theme=highcontrast)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal011&" alt="vatsal011" theme="highcontrast"/></p>
-
-
 <!--
 **vatsal011/vatsal011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
