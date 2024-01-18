@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vatsal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Data Science**
 - I am looking forward to collaborate on projects in the field of ML, AI and Data Science.
