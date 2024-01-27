@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vatsal</h1>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science** and **Machine Learning**
 - I am looking forward to collaborate on projects in the field of ML, AI and Data Science.
 - 📫 How to reach me - **vatsal.khushalani311@gmail.com**
   
